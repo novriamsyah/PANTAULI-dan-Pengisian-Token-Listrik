@@ -28,13 +28,6 @@
                                     <input type="text" class="form-control" id="val-nama" name="nama" placeholder="Masukkan nama">
                                 </div>
                             </div>
-                            {{-- <div class="form-group row">
-                                <label class="col-lg-4 col-form-label" for="val-hotline">No. HP <span class="text-danger">*</span>
-                                </label>
-                                <div class="col-lg-6">
-                                    <input type="text" class="form-control" id="val-hotline" name="noHp" placeholder="Masukkan Nomor HP">
-                                </div>
-                            </div> --}}
                             <div class="form-group row">
                                 <label class="col-lg-4 col-form-label" for="val-pulsa">Jumlah Pulsa <span class="text-danger">*</span>
                                 </label>
@@ -42,13 +35,6 @@
                                     <input type="number" class="form-control" id="val-pulsa" name="pulsa" placeholder="Masukkan Jumlah kWh ">
                                 </div>
                             </div>
-                            {{-- <div class="form-group row">
-                                <label class="col-lg-4 col-form-label" for="val-harga">Total Harga <span class="text-danger">*</span>
-                                </label>
-                                <div class="col-lg-6">
-                                    <input type="number" class="form-control" id="val-harga" name="harga" placeholder="Masukkan Harga Pulsa">
-                                </div>
-                            </div> --}}
                             <div class="form-group row">
                                 <div class="col-lg-8 ml-auto">
                                     <button type="submit" class="btn btn-primary">Simpan</button>

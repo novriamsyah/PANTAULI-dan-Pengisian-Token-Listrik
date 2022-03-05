@@ -19,23 +19,10 @@ Route::get('/', function () {
 	return view('darat');
 });
 
-// Route::get('/event', function () {
-	
-// 	return view('teseven');
-// });
-// Route::get('/first', function () {
-	
-// 		return view('first_page');
-// 	});
 Route::get('/first', function () {
 	
 		return view('pertama');
 	});
-
-// Route::get('/cobaevent', function () {
-//     CobaEvent::dispatch("gugu gaga");
-// });
-
 
 //======================================GET data Arduino=============================================
 //mengambil data triger dari TCP/IP
@@ -66,9 +53,9 @@ Route::get('/logout', 'SistemLoginController@prosesLogout');
 
 // =============================== AKSES ADMIN ===============================
 Route::group(['middleware' => ['auth', 'checkRole:admin,admin_low,non_member,member,user1']], function(){
-// => Fitur Cari Halaman
+	// => Fitur Cari Halaman
 	Route::get('/cari_halaman/{kata}', 'FiturCariController@cariHalaman');
-// => Halaman Dashboard
+	// => Halaman Dashboard
 	Route::get('/dashboard', 'HalDashboardController@halamanDashboard');
 });
 // =================================================================================================
