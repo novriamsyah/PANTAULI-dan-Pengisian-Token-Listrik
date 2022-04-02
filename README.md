@@ -3,22 +3,13 @@
 
 The website is used to monitor electrical energy such as voltage, current, power and power factor value values before and after power factor improvement. This website can also carry out a charging scheme for electrical energy limits that can be equipped with a notification system to the Whatsapp application.
 
-
-## Landing Page
-
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/52773931/161367129-37eaa0ee-31bd-43f9-96ad-d324958d1687.JPG" width="554" height="312">
-
 ## Dashboard
 
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/52773931/161367287-1628a23b-abaf-4d6d-9a11-64784f445487.JPG" width="554" height="312">
-
-## Control Device
-
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/52773931/161367322-c8ecccf6-b40a-464a-bee9-1a64e8ac2f2c.JPG" width="554" height="312">
+![App Screenshot](https://user-images.githubusercontent.com/52773931/161367287-1628a23b-abaf-4d6d-9a11-64784f445487.JPG)
 
 ## Notification WhatsApp
 
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/52773931/161367349-8af2ee80-3639-489e-a104-676e2435c6a5.jpg" width="554" height="312">
+![App Screenshot](https://user-images.githubusercontent.com/52773931/161367349-8af2ee80-3639-489e-a104-676e2435c6a5.jpg)
 
 ## Demo
 
