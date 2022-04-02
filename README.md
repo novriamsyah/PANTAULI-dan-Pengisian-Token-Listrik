@@ -7,10 +7,6 @@ The website is used to monitor electrical energy such as voltage, current, power
 
 ![App Screenshot](https://user-images.githubusercontent.com/52773931/161367287-1628a23b-abaf-4d6d-9a11-64784f445487.JPG)
 
-## Notification WhatsApp
-
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/52773931/161367349-8af2ee80-3639-489e-a104-676e2435c6a5.jpg" width="554" height="600">
-
 ## Demo
 
 https://youtu.be/TOUOb8sKZac
